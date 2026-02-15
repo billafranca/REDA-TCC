@@ -1,0 +1,31 @@
+Projeto: Reda+
+Equipe: Equipe_04
+Data: 15 de fevereiro
+Horário: 13h45
+Modalidade: Reunião online
+
+- Participantes
+
+Todos os integrantes da equipe estiveram presentes na reunião.
+
+
+- Pauta da Reunião
+
+Organização e divisão das telas do sistema por nível de prioridade (alta, média e baixa);
+Definição de prazos para entrega das atividades;
+Alinhamento sobre o desenvolvimento das telas na versão mobile;
+Reorganização do cronograma em razão de pendências da semana anterior.
+
+
+- Desenvolvimento da Reunião
+
+Durante a reunião, a equipe realizou a divisão das telas conforme o grau de prioridade estabelecido no planejamento do projeto. Também foram definidos prazos para conclusão das tarefas, visando manter o andamento adequado do cronograma.
+Foi registrado que, na semana anterior, as atividades previstas não foram concluídas devido a dificuldades relacionadas à praticidade na execução das tarefas, o que exigiu a reestruturação do planejamento.
+Ficou acordado que o desenvolvimento das telas de prioridade alta (versão principal do sistema) será planejado após a finalização das telas de prioridade média e baixa. Paralelamente, será realizado o desenvolvimento das telas de alta prioridade na versão mobile.
+
+
+- Distribuição de Tarefas
+
+Lucas: Desenvolvimento das telas de prioridade média, com prazo até o dia 22.
+Rai e Flávio: Desenvolvimento das telas de prioridade baixa, com prazo até o dia 01.
+Pedro e Ítalo: Desenvolvimento das telas de prioridade alta na versão mobile e de alta web apos a conclusão das de media e baixa.
