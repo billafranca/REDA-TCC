@@ -5,16 +5,90 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:orientation="vertical"
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/txt_title"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginTop="100dp"
+        android:layout_marginTop="90dp"
         android:gravity="center"
+        android:drawableTop="@drawable/reda"
         android:textColor="#CA6B4B"
-        android:textSize="30dp"
+        android:fontFamily="sans-serif"
+        android:textSize="35sp"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/edt_email"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="140dp"
+        app:cornerRadius="15dp"
+        android:layout_marginHorizontal="40dp"
+        android:background="@drawable/bg_arredondado"
+        android:hint="   Insira seu email"
+        android:drawableStart="@drawable/icon_email"
+        android:inputType="textEmailAddress"
+        android:backgroundTint="#6179FF"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FBFDFD"
+        android:textStyle="italic" />
+
+    <EditText
+        android:id="@+id/edt_senha"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="40dp"
+        app:cornerRadius="15dp"
+        android:background="@drawable/bg_arredondado"
+        android:drawableStart="@drawable/icon_senha"
+        android:hint="  Insira sua senha"
+        android:inputType="textPassword"
+        android:backgroundTint="#6179FF"
+        android:padding="10dp"
+        android:textColor="#FFFFFF"
+        android:textColorHint="#FBFDFD"
+        android:textStyle="italic" />
+
+    <TextView
+        android:id="@+id/edt_OutrasOP"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        app:cornerRadius="15dp"
+        android:layout_marginHorizontal="40dp"
+        android:background="#FFFFFF"
+        android:hint="----------------------------- Outras opções --------------------------"
+        android:backgroundTint="#FFFFFF"
+        android:padding="10dp"
+        android:textColor="#C14D27"
+        android:textColorHint="#FF5722"
+        android:textStyle="italic" />
+
+    <com.google.android.material.button.MaterialButton
+        android:id="@+id/btn_google"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:layout_marginHorizontal="40dp"
+        android:padding="10dp"
+        android:text="Login com google"
+        android:textColor="#3F51B5"
         android:textStyle="italic"
-        android:text="REDA+"/>
+        app:cornerRadius="15dp"
+        app:backgroundTint="#FBFDFD"
+        app:icon="@drawable/google_icon"
+        app:iconGravity="textStart"
+        app:iconTint="@null" />
+
+
+
+
+
+
 
 </LinearLayout>
