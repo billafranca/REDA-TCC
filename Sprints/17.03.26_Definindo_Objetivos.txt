@@ -1,0 +1,29 @@
+Projeto: Reda+
+Equipe: Equipe 04
+Data: 17/03/2026
+Horário: 19h20
+Modalidade: Presencial
+
+Participantes
+- Registra-se a presença integral de todos os membros da equipe.
+
+Pauta da Reunião
+- A reunião teve como objetivo principal a discussão acerca do desenvolvimento e do progresso das interfaces front-end para a plataforma Web, bem como o alinhamento para o início da estruturação da arquitetura back-end.
+
+Andamento do Projeto.
+- Interfaces Web: 5 (cinco) telas concluídas em caráter provisório.
+- Interfaces Mobile: Nenhuma tela concluída até o presente momento.
+
+Módulos Complementares:
+- front-end do chatbot em desenvolvimento 
+
+Desafios e Obstáculos:
+- Gerenciamento de tempo: Necessidade de otimização na gestão de tempo da equipe.
+- Desafios técnicos: Dificuldades iniciais com o framework Vue.js. Como medida de contingência, deliberou-se pela construção temporária das interfaces utilizando HTML nativo.
+
+Distribuição de Tarefas (Plano de Ação)
+- Lucas: Responsável pela revisão estrutural do back-end e pela manutenção contínua da documentação do projeto.
+- Pedro: Responsável pela revisão estrutural do back-end.
+- Rai: Alocado para o desenvolvimento de 1 (uma) interface front-end (Status: Em desenvolvimento).
+- Flavio: Responsável pelo desenvolvimento de 1 (uma) interface front-end (Status: Concluído).
+- Italo: Responsável pelo desenvolvimento de 1 (uma) interface front-end (Status: Concluído).
