@@ -1,0 +1,46 @@
+Ata de Reunião: Projeto Reda+
+Equipe: Equipe 04
+Data: 22/03/2026 | Horário: 14h30
+Modalidade: Online
+
+1. Participantes
+Registra-se a presença integral de todos os membros da equipe.
+
+
+2. Pauta da Reunião
+ - Discussão e fechamento dos temas da plataforma para conclusão do banco de dados e das telas.
+ - Alinhamento sobre o desenvolvimento e lógica do chatbot.
+
+
+3. Atividades Realizadas (Última Semana)
+ - Lucas: Correções nas rotas do back-end e atualização da documentação.
+ - Pedro: Desenvolvimento das funcionalidades de cadastro e login e ajuda no back-end.
+ - Rai: Organização do repositório e desenvolvimento da tela de Modelos.
+ - Flavio: Desenvolvimento da tela Inicial e correções em telas de apresentação.
+ - Italo: Melhoria de responsividade e design nas telas de Login, Cadastro e "Esqueci a Senha"; início da implementação em Vue.js.
+
+
+4. Andamento do Projeto
+ - Interfaces Web: 7 telas concluídas em caráter provisório (Apresentação, Cadastro, Login, Esqueci a Senha 1, 2 e 3, Inicial).
+ - Interfaces Mobile: Em fase de planejamento (nenhuma tela concluída).
+ - Módulos Complementares: Front-end do chatbot em estágio de desenvolvimento.
+
+
+5. Desafios e Obstáculos
+ - Tecnologia: Dificuldades iniciais na migração para o framework Vue.js (atualmente operando em HTML nativo).
+ - Integração: Complexidade na comunicação entre as camadas de front-end e back-end.
+ - Design: Dificuldades técnicas com CSS e ajustes de layout.
+ - Pesquisa: Necessidade de aprofundar conhecimentos em IA para futuras implementações.
+
+
+6. Definições Estratégicas
+ - Conteúdo: A plataforma contará com 15 temas do ENEM e 5 temas próprios (além de outros temas complementares conforme a necessidade).
+ - Chatbot: Implementação baseada em respostas pré-definidas (sem uso de IA complexa ou APIs externas neste momento).
+
+
+7. Plano de Ação (Próximas Tarefas)
+ - Lucas: Pesquisar sobre IA para implementações, correções na documentação e ajustes no back-end.
+ - Pedro: Apoio na implementação do Vue.js e correção da integração com o back-end.
+ - Rai: Melhoria da tela de modelos e migração para Vue.js.
+ - Flavio: Foco em responsividade e implementação em Vue.js.
+ - Italo: Finalização das telas de textos de apoio e organização geral do conteúdo junto a implementação para Vue.js.
