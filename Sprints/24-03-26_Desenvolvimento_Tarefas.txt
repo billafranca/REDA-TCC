@@ -1,0 +1,39 @@
+Ata de Reunião: Projeto Reda+
+Equipe: Equipe 04
+Data: 24/03/2026 | Horário: 20:00
+Modalidade: Etec
+
+1. Participantes
+Registra-se a presença integral de todos menos o Pedro da equipe.
+
+
+2. Pauta da Reunião
+ - Discussão e fechamento dos temas da plataforma para conclusão do banco de dados e das telas.
+ - Alinhamento sobre o desenvolvimento e lógica do chatbot.
+
+
+3. Andamento do Projeto
+ - Interfaces Web: 7 telas concluídas em caráter provisório (Apresentação, Cadastro, Login, Esqueci a Senha 1, 2 e 3, Inicial).
+ - Interfaces Mobile: Em fase de planejamento (nenhuma tela concluída).
+ - Módulos Complementares: Front-end do chatbot em estágio de desenvolvimento.
+
+
+4. Desafios e Obstáculos
+ - Tecnologia: Dificuldades iniciais na migração para o framework Vue.js (atualmente operando em HTML nativo).
+ - Integração: Complexidade na comunicação entre as camadas de front-end e back-end.
+ - Design: Dificuldades técnicas com CSS e ajustes de layout.
+ - Pesquisa: Necessidade de aprofundar conhecimentos em IA para futuras implementações.
+
+
+5. Definições Estratégicas
+ - Conteúdo: A plataforma contará com 15 temas do ENEM e 5 temas próprios (além de outros temas complementares conforme a necessidade).
+ - Chatbot: Implementação baseada em respostas pré-definidas (sem uso de IA complexa ou APIs externas neste momento).
+
+
+6. Plano de Ação (Andamento das tarefas)
+ - Lucas: Pesquisando sobre IA para implementações, correções na documentação e ajustes no back-end.
+ - Pedro: Apoiando na implementação do Vue.js e correção da integração com o back-end.
+ - Rai: Melhorando da tela de modelos e migração para Vue.js.
+ - Flavio: Focando em responsividade e implementação em Vue.js.
+ - Italo: Finalizando as telas de textos de apoio e organização geral do conteúdo junto a implementação para Vue.js.
+
