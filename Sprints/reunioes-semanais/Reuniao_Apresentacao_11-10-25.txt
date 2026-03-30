@@ -1,0 +1,26 @@
+MODELO DE INFORMAÇÕES — REUNIÃO / BRAINSTORM / SPRINT
+
+Data: 11/10/2025
+Equipe: 04
+
+Assuntos discutidos: Passos a melhorar nas próximas apresentações
+
+Ampliar e aprimorar o esboço já construído até aqui, incluindo o nome atual do projeto e sendo mais específico nas funcionalidades.
+
+Para a correção das redações, será utilizada uma IA com biblioteca já existente, que será treinada e ajustada conforme o escopo do projeto. Será realizada uma pesquisa mais aprofundada para garantir a melhor integração da ferramenta.
+
+Nos objetivos específicos, é necessário deixar mais claras as etapas de finalização do projeto (no slide atual, estão sendo apresentadas como funcionalidades).
+
+Na justificativa, faltou embasamento em dados concretos para reforçar o que foi apresentado.
+
+As reuniões (sprints) estão sendo realizadas aos finais de semana, com o objetivo de definir metas, prazos e discutir possíveis imprevistos. Também estão sendo aproveitadas algumas aulas de PTCC para reuniões complementares durante a semana.
+
+Inserir mais ícones e elementos visuais para tornar o slide de apresentação mais atrativo.
+
+Sobre a documentação (responsabilidades):
+
+Funcionalidades — Ítalo
+
+Diagrama UML — Pedro
+
+Casos de uso — Lucas
