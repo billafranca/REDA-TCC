@@ -1,0 +1,60 @@
+APLICATIVO
+
+#Cadastro e Login
+- tela inicial app: nova conta, login.
+- tela cadastro: inserir (nome, sobrenome, email, senha, repetir senha), cadastro google, login.
+- verificar cadastro.
+- tela inserir idade. 
+- tela login: inserir dados (email, senha), login google, esqueceu a senha, cadastro.
+- autenticar usuario.
+- tela recuperar senha - email.
+- tela recuperar senha - código.
+- tela recuperar senha - nova senha. 
+
+#usuário
+- tela inicial usuário: exibição de melhor nota, gráfico de desempenho, últimas redações, button modelos, button livros.
+- tela de perfil: alterar email, alterar senha, notificações, temas, excluir conta, sair.
+- tela de Modelos de Redação: pesquisar modelos, categorias, selecionar modelos.
+- tela visualização de modelo especifico.
+- tela de livros (Disponibilizar acervo de materiais e livros digitais): pesquisar livros, categorias, selecionar livros.
+- tela de visualização de livro: favoritar.
+- tela chatbot: pergunta e resposta.
+- tela de configurações: tipo de fonte, tamanho da fonte.
+- tela de politica de privacidade.
+- tela de direito de uso.
+
+#redação
+- tela opções de criação de redação: foto, arquivo, digital e redação salva.
+- tela de seleção de tema(Permitir seleção de tema): pesquisar tema, filtro, selecionar, tema aleatório.
+- Exibir textos norteadores do tema escolhido: continuar, voltar.
+- tela para ambiente para produção de redação digitar:(titulo, redação) avaliar, voltar, salvar.
+- tela para ambiente para produção de redação arquivo: (titulo), selecionar arquivo, avaliar, voltar.
+- tela selecionar redação salva: pesquisa, filtro, favorito e deletar, exibir temas favoritos.
+- correção automática por IA: voltar.
+
+- tela histórico de redações: pesquisa redações, filtro, selecionar redação.
+- tela descrição detalhada sobre a redação: exibição (pontuação, feedback, como funciona a pontuação), abrir redação para leitura.
+- tela desempenho (exibição): grafico - notas, maior e menor nota, útimas correções(Abrir redação).
+
+
+
+REQUISITOS ESPECIFICOS APLICATIVO 
+
+#Menus (na maioria das telas)
+- menu lateral: perfil, configurações termos de uso, politica de privacidade e sair.
+- menu inferior: inicio, chatbot, nova redação, histórico e desempenho.
+
+
+REQUISITOS ESPECIFICOS WEB 
+
+#Apresentação
+- tela footer: button (quem somos, perguntas frequentes, assine, politica de privacidade, Termos de Uso, link app).
+- tela de apresentaçao: button (login, cadastro, contato, sobre, baixar app, planos)
+
+#Usuário
+- tela inicio: button(nova redação, continuar redação, histórico de redações), gráfico de evolução(exibição), última redação feita(visualizar), tema quente(digitar).
+
+#Menus
+- exibição de menu superior: inicio, modelos, livros e desempenho.
+- usuário menu: perfil, nova redação, continuar redação, Chatbot, configurações e sarir.
+- chatboot flutuante: pergunta e resposta.
