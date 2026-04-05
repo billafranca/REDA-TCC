@@ -1,0 +1,42 @@
+Ata de Reunião: Projeto Reda+
+Equipe: Equipe 04
+Data: 05/04/2026 | Horário: 14:00
+Modalidade: Etec
+ATA DE REUNIÃO – Projeto Reda+
+
+Equipe: Equipe 04
+Data: 05/04/2026
+Horário: 14h00
+Modalidade: ETEC
+
+1. Participantes
+- Registra-se a presença de todos os integrantes da equipe.
+
+
+2. Pauta da Reunião
+ - Definição sobre a disponibilização dos livros na plataforma (formato PDF ou livro completo integrado).
+ - Organização e alinhamento das apresentações do projeto.
+
+
+3. Andamento do Projeto
+ - Interfaces Web: 14 telas concluídas em caráter provisório: (Apresentação, Cadastro, Login, Esqueci a Senha 1, 2 e 3, Inicial, Modelos, Livros, Visualizar texto de apoio, Escolher Tema, Continuar Redação e Perfil, visualizar modelo).
+
+
+4. Desafios e Obstáculos:
+ - Tecnologia: Dificuldades iniciais na migração para o framework Vue.js (anteriormente em HTML puro).
+
+
+5. Plano de Ação (Distribuição de Tarefas)
+ - Lucas: Responsável pela documentação do projeto (apresentação, casos de uso, UML, etc.).
+ - Pedro: Conversão das telas para Vue.js e implementação de login e cadastro com Google.
+ - Rai: Correção dos protótipos de baixa fidelidade e desenvolvimento da tela de configurações.
+ - Flávio: Correção das telas de baixa fidelidade.
+ - Ítalo: Desenvolvimento da tela “Continuar Redação”, apoio na documentação (slides).
+
+
+6. Atualizações da Semana
+ - Pedro: Organizou melhor as rotas e o back-end de login e cadastro, além de contribuir com o desenvolvimento em Vue.js. Enfrentou desafios relacionados a pesquisas no back-end.
+ - Rai:Finalizou 4 telas, realizou ajustes na tela de perfil e iniciará o desenvolvimento da tela de configurações.
+ - Flávio:Concluiu a tela de desempenho e avançou no uso do Vue.js.
+ - Lucas:Trabalhou na documentação do projeto e participou de discussões sobre o back-end. Teve como principal desafio a integração entre front-end e back-end. 
+ - italo: organização do código (redução de excesso de divs) alem de fazer respectivamente, tela de visualizar texto de apoio e começar continuar redação.   
