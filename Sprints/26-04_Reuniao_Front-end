@@ -1,0 +1,28 @@
+Ata de Reunião: Projeto Reda+
+Equipe: Equipe 04
+Data: 26/04/2026 | Horário: 14:30
+Modalidade: online
+
+
+1. Participantes
+- flavio, rai, italo.
+
+
+2. Pauta da Reunião
+ - Identificação e tratamento em interfaces críticas no momento, com foco na tela de apresentação e na estrutura de roteamento (root).
+ - Padronização dos diretórios e refatoração do Front-end visando a integridade para subir as telas no repositório oficial (GitHub)
+
+
+3. Andamento do Projeto
+ - Interfaces Web: Conclusão das interfaces em caráter preliminar, aguardando agora o ciclo de refinamento estético e lógico (100%).
+
+
+4. Plano de Ação (Distribuição de Tarefas)
+ - rai: Atuará no refinamento estético e funcional da Landing Page (Apresentação).
+ - flavio: Ajuste técnico nos textos de apoio para garantir clareza alem da procura de modelos eximios de redação para a plataforma
+ - italo: Reestruturação do sistema das rotas entre a interface de escolher o tema e a de escrita alem da aplicação de cores para o tema escuro na plataforma
+
+5. Atualizações da Semana
+ - rai: Trabalhou na tela de configurações e fez ajustes nos protótipos.
+ - flavio: Subiu os protótipos para o repositório e realizou a organização das pastas.
+ - italo: Finalizou as telas de "Continuar Redação", "Feedback da redação" e "Política de Privacidade" alem de padronizar o root em todas as telas
